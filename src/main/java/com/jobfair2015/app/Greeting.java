@@ -12,7 +12,7 @@ public class Greeting {
 	//Sample comment
 	public static String greetWorld(){
 		//TO DO
-		return null;
+		return "Hello Real World";
 	}
 	
 	public static void main(String[] args) {
