@@ -11,8 +11,7 @@ public class Greeting {
 	
 	//Sample comment
 	public static String greetWorld(){
-		//TO DO
-		return null;
+		return "Hello, real world!";
 	}
 	
 	public static void main(String[] args) {
