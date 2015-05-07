@@ -9,7 +9,8 @@ import org.junit.Test;
 public class GreetingTest{
 		
 	@Test
-	public void sample(){
+	public void sample(){   
+		
 		assertEquals(Greeting.greetWorld(), "Hello, real world!");
 	}	
 }
