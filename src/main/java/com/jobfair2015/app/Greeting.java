@@ -13,7 +13,7 @@ public class Greeting {
 	public static String greetWorld(){
 		//TO DO
 		
-		return "Hello World bla bla bla";
+		return "Hello World";
 	}
 	
 	public static void main(String[] args) {
