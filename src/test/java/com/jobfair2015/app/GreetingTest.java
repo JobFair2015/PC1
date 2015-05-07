@@ -10,6 +10,7 @@ public class GreetingTest{
 		
 	@Test
 	public void sample(){
-		assertNull(Greeting.greetWorld());
+		//assertNull(Greeting.greetWorld());
+		assertEquals(Greeting.greetWorld(),"Hello Real World!");
 	}	
 }
